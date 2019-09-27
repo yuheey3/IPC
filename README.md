@@ -1,10 +1,10 @@
 # IPC 144
 
-###Subject Title
+Subject Title
 Introduction to Programming Using C
 
 
-###Subject Description
+Subject Description
 
 This course covers the fundamental principles of computer programming, with an emphasis on problem solving strategies 
 using structured programming techniques. The C programming language, which is widely used and forms the syntactical basis 
@@ -12,7 +12,7 @@ for object-oriented languages such as C++, C#, and Java, is used to introduce pr
 implementation. Students work in a cross-platform environment.
 
 
-###Learning Outcomes
+Learning Outcomes
 
 Upon successful completion of this subject the student will be able to:
 
