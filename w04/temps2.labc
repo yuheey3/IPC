@@ -1,0 +1,48 @@
+//--------------------------------------------------
+// Name:           YUKI WAKA
+// Student Number: 141082180
+// Email:          YWAKA@myseneca.ca
+// Section:        SJJ
+// Workshop:       4 (in-lab)
+//--------------------------------------------------
+
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#define NUMS 10
+
+int main(void)
+{
+	int i, j;
+	int Hi[NUMS], Low[NUMS];
+	int day;
+
+	// Put your code below:
+	printf("---=== IPC Temperature Calculator V2.0 ===---\n");
+	printf("Please enter the number of days, between 3 and 10, inclusive: ");
+	scanf("%d", &day);
+
+	if (day < 3 || day > 10) {
+		while (1) {
+			printf("\nInvalid entry, please enter a number between 3 and 10, inclusive: ");
+			scanf("%d", &day);
+
+			if (day >= 3 && day <= 10)
+				break;
+		}
+	}
+
+	printf("\n");
+	for (j = 1; j <= day; j++) {
+		printf("Day %d - High: ", j);
+		scanf("%d", &Hi[j - 1]);
+		printf("Day %d - Low: ", j);
+		scanf("%d", &Low[j - 1]);
+	}
+
+	printf("\nDay  Hi  Low\n");
+	for (i = 0; i < day; i++) {
+		printf("%d    %d    %d\n", i+1, Hi[i], Low[i]);
+	}
+
+	return 0;
+}

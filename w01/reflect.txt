@@ -1,0 +1,6 @@
+Name: Yuki Waka Student Number: 141082180 course: IPC 144 SJJ
+
+I have learned from this workshop many things. First, I learned how to use Visual studio and making C code and compiled it.
+Also I have never heard about matrix before, but now I can use matrix and using STP client, I can transfer my file from local computer to matrix server. 
+When I transfer to matrix, I had to make sure the file is not binary, but text. Furthermore, I can submit my file to professor.  
+Thease are all good staffs when I start to study about programming.

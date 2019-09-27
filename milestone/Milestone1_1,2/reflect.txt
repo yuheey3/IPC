@@ -1,0 +1,22 @@
+Name: YUKI WAKA
+Student number: 141082180
+Email:  ywaka@myseneca.ca
+Section: IPC 144 -SJJ
+Date: Mar.11.2019
+----------------------------------------------
+Assignment: 1
+Milestone:  2
+
+
+  1.  I think it is possible to enter information all together not separately. 
+For example, Please enter there first name and last name. Between two of them ,there will be space, 
+so that we can recognize first name and last name. Also the other things that I can think of there is 
+no need to ask optional things. we can ask question first, and then if user put nothing, just moved 
+to next question and not save anything.
+
+
+2. The differences between C string and character array is that C string has the null terminator 
+the end of the array and the value is 0.  The number of memory location occupied by a string is 
+one more than the number of characters in the string. If you use specifier “%s” primitive character array, 
+It will shows unnesessary things. 
+

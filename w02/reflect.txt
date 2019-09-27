@@ -1,0 +1,20 @@
+Name : Yuki Waka
+Student number : 141082180
+Email: YWAKA@myseneca.ca
+Class : IPC 144 SJJ
+
+ Ilearned many things in this worshop. Firstly, I learned how to use casting. It is allow to change from 
+one data type to another data type. Secondly, I could used appropriate logical expression. Especially, 
+I used  modulus and multiple a lot. It helped me to make the code more easily. 
+
+I found casting interesting, because if the left operand ranking is more highier than the right operand, 
+the right operand was changed automatically. Also I restudied Mixed-type expressions.
+ On the other hand, understanding how to round up the balace owing was hard for me.
+
+I think convert floating-point values to integers is the best practice, because when we code something, we will use that 
+often and also while making reminder, we have to change from floating-point to integers.
+
+ I think using modulus operator is the best practice, because we can use different types of opetators and we can know 
+concept of types exactly. 
+
+ 

@@ -1,0 +1,24 @@
+/* -------------------------------
+Name: Yuki Waka
+Student number: 141082180
+Email: ywaka@myseneca.ca
+Section: SJJ
+Date: April5
+----------------------------------
+Assignment: 2
+Milestone:  4
+---------------------------------- */
+      1.When I was making getTenDigitphone function, I needed to get only numerical digits from input.
+It was hard to me since I didn't know how to do it, but I found that It has to use Ascii table.
+Ascii table made code to be more easy to determine range of numbers, so that I could define to get only numerical digit.
+Using getTenDigitphone function made more easier to get from users only numbers. Also It was defined only 10 degits.
+     
+      findContactindex function is to find exactly the same information from users and displayed. I used strcmp library to compare 
+two parameters, so that I could find the contact if the all contact are matched. Using findContactindex function,
+It helps to find contact that user is looking for. If I didn't use this function, I should have declared many logics.
+I think these two functions help my code readability.
+
+2. I don't know much about programming languages, so I'm not sure whether including functions like this is good or not.
+I could say these useful functions helped to organize coding readibility and save the contact information from users.
+I think I liked this asssignment to include the functionality to save the contact information as a bigennier.   
+   

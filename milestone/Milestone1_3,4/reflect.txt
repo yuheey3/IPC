@@ -1,0 +1,27 @@
+/* -------------------------------------------
+Name: Yuki Waka
+Student number: 141082180
+Email: ywaka@myseneca.ca
+Section: IPC SJJ
+Date: Mar.15
+----------------------------------------------
+Assignment: 1
+Milestone:  4
+---------------------------------------------- */
+ 
+1.Structure type can define a group of variable as a single object. In this milestone, 
+there are three user defined types Name, Address, Numbers.
+Struct can contain these three type that I createted. By holding three other struct as data members,
+ it can be more easier to write code than not using struct.
+When I called each address such as name, address and numbers, I used '&contacts.name' 
+This is much simpler than I didn't hold three types struct as a single one. 
+Also if there are more than one members, It can be more difficult and confused, so it needs to be struct. 
+
+2. Passing array is the elements of an array occupy locations in memory. this accessing element from within a function 
+only required the address of the start of the array.  It means when passing the address, we avoid copying 
+the entire array. In this milestone, I used 'getName(struct Name *name)' instead of Contacts.
+I didn't need to point to type Contacts as an argument, because Contacts type structed three types, 
+and one of the types called Name has one argument. '*name' is the address of the start of the array. 
+
+3. In this milestone, I learned how to make header file in seperate file and also how to call the new functions added in the project.
+Pointer and function are difficult for me to understand,so I'd better practice harder. 

@@ -1,0 +1,21 @@
+Name : Yuki Waka
+Student number : 141082180
+Email: YWAKA@myseneca.ca
+Date: Feb.4.2019
+Class : IPC 144 SJJ
+Work shop: reflect
+
+1. I think using pseudo-coding is very useful and helpful, because It helps to organize my code that
+I have to make and also it is easy to determine the order of code. sometime I can add something after making pseudo-code.
+
+2.There are 3 Iteration constructs. while, do while an d for. I used  for and do while.
+I though for is easiest one than other. It can make just one line everything are in the on line is 
+attractive for me. And also do while , it is executes it sequence at least once, I used this when 
+I print out some sentences first. And I checked condition after that. 
+
+3. This workshop was interesting but also difficlut for me, because I had to declare many things and 
+when set the day number, I had to make this +1, because I used array, It started from 0, 
+so I made day number +1 to make correct day. It was confused for me at first, but now I understand it.
+
+
+

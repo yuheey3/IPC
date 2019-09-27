@@ -1,0 +1,14 @@
+In line number 478 of your output:
+The output should be:
+<<< Feature to sort is unavailable >>>
+            ^
+But your output is: 
+<<< Feature 6 is unavailable >>>
+            ^
+
+Unmatched character details:
+The character in column 13 is supposed to be:
+  [t] ASCII code(116)
+but you printed
+  [6] ASCII code(54)
+

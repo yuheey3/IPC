@@ -1,0 +1,21 @@
+/* -------------------------------
+Name: Yuki Waka
+Student number:  141082180
+Email: ywaka@myseneca.ca
+Section: SJJ
+Date: Mar.24
+----------------------------------
+Assignment: 2 
+Milestone:  2
+
+1.Functions transfers control between one another. When a function transfers control to another function,
+ it called the other function. It makes separate coding of each component and assembly  of various components 
+into a complete program. In this milestone, there are 2 headers and 3  main function.
+ After finishing this assignment, I learned how to use function appropriately.
+ Now I am ready to combine another function as well.
+I think these function will be needed to another languages. The C language is a procedural programming language,
+ I don’t know much about other languages, but I think they also needed to combine different function to complete programs.
+
+2. I guess the reasons why “helper” functions are in a different module is that “contact” contains 3 functions 
+such as  name, address and number already. If “contacts” are in the “helper”function, It will be confusing 
+to recognize and hard to see the code.

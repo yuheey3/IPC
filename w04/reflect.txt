@@ -1,0 +1,22 @@
+ Name:           YUKI WAKA
+
+ Student Number: 141082180
+
+ Date:           Feb.11
+
+ Email:          YWAKA@myseneca.ca
+ Section:        SJJ
+
+ Workshop:       4 (at-home)
+
+
+1.Using array is very useful, because large collections of data can be organized in structure and the some type of 
+variable can stored contiguously in memory.
+Alternative of array is that you have to declare all variable you need. You have to type all you need. It is waste of time and memory.  
+
+2. The good things of using  parallel is that It’s better and convenient when you store data of the same type and size.
+ There is no memory overflow when you use array. The bed thing is that you can only enter fixed number of elements. 
+Changing the size of the array is difficult.
+
+3.We set the variable count to zero before the loop starts, then we write  loop to run through the list of numbers. 
+Initialize iterator variables is important ,because in the array ,index numbering starts at 0.
