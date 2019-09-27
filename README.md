@@ -1,7 +1,10 @@
 # IPC 144
 
+
 ## Subject Title
 Introduction to Programming Using C
+
+
 
 
 ## Subject Description
@@ -12,9 +15,9 @@ for object-oriented languages such as C++, C#, and Java, is used to introduce pr
 implementation. Students work in a cross-platform environment.
 
 
-## Learning Outcomes
 
-Upon successful completion of this subject the student will be able to:
+
+## Learning Outcomes
 
 1.Design functions using selection and iteration constructs to solve a programming task
 
